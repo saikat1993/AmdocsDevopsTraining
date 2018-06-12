@@ -1,2 +1,2 @@
 This is my first file
-Edited from new branch
+Edited from master
